@@ -64,5 +64,19 @@ To train supervised ML models on labeled IMDb movie reviews to predict sentiment
 
 ---
 
-## 📂 File Structure
+📘 Learnings & Takeaways
+✔ Text data is messy, but structured preprocessing can create clarity
+✔ Simple models can go a long way with the right features
+✔ Building your own pipeline teaches far more than using prebuilt tools
+✔ Even with 50,000 reviews, speed matters — swifter and vectorizers save time
+
+🙋‍♀️ About Me
+I'm a budding data scientist with a passion for NLP, modeling, and turning raw data into real-world impact.
+Connect with me to talk data, code, or cinema 🎬
+
+🔗 GitHub: mubashera124
+
+💼 LinkedIn: https://www.linkedin.com/in/mubashera-siddiqui-59489823a/
+
+
 
