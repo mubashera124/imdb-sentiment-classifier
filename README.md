@@ -7,7 +7,7 @@
 
 ## 🔍 What’s This Project About?
 
-This project takes 50,000 raw IMDb movie reviews and turns them into meaningful sentiment predictions — **positive** or **negative** — using the power of **Natural Language Processing (NLP)** and **Supervised Machine Learning**.
+This project takes 50,000 raw IMDb movie reviews with sentiment and builds a complete **sentiment analysis pipeline** using Python, NLP, and Machine Learning. 
 
 Built from scratch in Python, this project showcases how a well-crafted pipeline — from text cleaning to vectorization to model selection — can produce impressive accuracy even with simple models.
 
